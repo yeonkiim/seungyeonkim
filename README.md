@@ -46,6 +46,8 @@ and international development projects across Asia, Latin America, and Africa.
 
 
 ### 🏠 Homelessness Trends (NY, CA)
+🔗 [People on the Streets – Project Page](projects/homelessness/)
+
 **Question:** How have homelessness patterns changed between 2010 and 2020 across major U.S. regions?
 
 **Data & Methods:**  
