@@ -56,8 +56,8 @@ and international development projects across Asia, Latin America, and Africa.
 **Key Insights:**  
 - Temporary declines during COVID-19 aligned with eviction moratoria and emergency rental assistance, followed by sharp rebounds after program expiration
 - Short-term relief prevented deeper crises but failed to address structural housing shortages; long-term solutions such as Housing First are critical for sustainable impact
-  
-- 🔗 StoryMap: link
+- 🔗 [StoryMap – People on the Streets](https://nu.hub.arcgis.com/apps/3b6e38f159ca405c9c7df8e759d94560/explore)
+
 
 
 ## Resume
