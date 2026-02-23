@@ -18,9 +18,7 @@ Why do certain Bluebikes stations in Boston consistently experience higher bicyc
 - Persistent high-risk stations across both years
 - Strong association with shared or unprotected bike lanes
 - High exposure along major vehicular corridors
-
-## Policy Implications
-Improving bike safety requires qualitative upgrades to infrastructure,
+- Improving bike safety requires qualitative upgrades to infrastructure,
 particularly physical separation in high-risk areas.
 
 ## Files
