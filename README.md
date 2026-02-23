@@ -30,7 +30,7 @@ and international development projects across Asia, Latin America, and Africa.
 - Identified persistent high-risk stations across both years  
 - Found strong association between accident hotspots and shared or unprotected bike lanes  
 - Highlighted the importance of physical separation in bike infrastructure design
-- 🔗 City Exploration Document: link
+- 🔗 City Exploration: /projects/city-exploration/
 
 
 ### 🚴 Bikeshare Equity Analysis (Boston)
