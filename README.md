@@ -34,6 +34,8 @@ and international development projects across Asia, Latin America, and Africa.
 
 
 ### 🚴 Bikeshare Equity Analysis (Boston)
+🔗 [Bikeshare Equity Analysis – Project Page](projects/bikeshare-equity/)
+
 **Question:** Is Bikeshare Really Equally Accessible and Affordable to Everyone in Boston?
 
 **Data & Methods:**  
@@ -41,8 +43,6 @@ and international development projects across Asia, Latin America, and Africa.
 
 **Key Insights:**  
 - Bikeshare usage increased in low-income areas alongside major network expansion, yet income-based disparities persisted in regression results
-
-- 🔗 Data Analysis: link
 
 
 ### 🏠 Homelessness Trends (NY, CA)
