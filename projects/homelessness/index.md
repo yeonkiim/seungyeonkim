@@ -7,7 +7,6 @@ title: People on the Streets – Homelessness Trends (NY & CA)
 
 ## Research Question
 How have homelessness patterns changed in New York and California between 2010 and 2020?
-Was there a period during which homelessness declined, particularly during the COVID-19 pandemic?
 
 ## Background
 Homelessness is driven by complex structural factors, but a critical contributor remains the growing gap between housing affordability and income growth.
