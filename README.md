@@ -1,1 +1,68 @@
-# seungyeonkim
+# Seungyeon Kim
+
+Inclusive Urban Planning | Urban Data Analysis
+
+
+## About
+
+Urban Informatics graduate student with over 8 years of experience in international development,
+specializing in urban data analysis, GIS, and evidence-based policy research.
+Experienced in managing and analyzing large datasets to support inclusive urban planning, equity,
+and international development projects across Asia, Latin America, and Africa.
+
+- **Data Analytics:** R, SQL, Tableau, Power BI, ArcGIS Pro  
+- **Methods:** Spatial analysis, regression analysis, data visualization  
+- **Policy & Evaluation:** Project evaluation (M&E), research and analysis  
+- **Project Management:** Coordination, reporting, stakeholder engagement  
+- **Languages:** English (Fluent), Spanish (Fluent), Korean (Native)
+
+
+## Selected Projects
+
+### 🚲 City Exploration – Bike Safety & Infrastructure Risk Analysis (Boston)
+
+**Question:** Why do certain Bluebikes stations in Boston consistently experience higher numbers of bicycle-related accidents, despite overall improvements in bike infrastructure?
+
+**Data & Methods:**  
+- Vision Zero crash data (2015, 2024), Bluebikes station locations, distance-based spatial proximity analysis (st_is_within_distance), GIS mapping
+
+**Key Insights:**  
+- Identified persistent high-risk stations across both years  
+- Found strong association between accident hotspots and shared or unprotected bike lanes  
+- Highlighted the importance of physical separation in bike infrastructure design
+- 🔗 City Exploration Document: link
+
+
+### 🚴 Bikeshare Equity Analysis (Boston)
+**Question:** Is Bikeshare Really Equally Accessible and Affordable to Everyone in Boston?
+
+**Data & Methods:**  
+- Bluebikes trip data (2015, 2019), ACS data, H+T Index, regression analysis (R), GIS mapping
+
+**Key Insights:**  
+- Bikeshare usage increased in low-income areas alongside major network expansion, yet income-based disparities persisted in regression results
+
+- 🔗 Data Analysis: link
+
+
+### 🏠 Homelessness Trends (NY, CA)
+**Question:** How have homelessness patterns changed between 2010 and 2020 across major U.S. regions?
+
+**Data & Methods:**  
+- CoC-based homelessness data, ACS socioeconomic indicators, GIS spatial analysis, StoryMaps
+
+**Key Insights:**  
+- Temporary declines during COVID-19 aligned with eviction moratoria and emergency rental assistance, followed by sharp rebounds after program expiration
+- Short-term relief prevented deeper crises but failed to address structural housing shortages; long-term solutions such as Housing First are critical for sustainable impact
+  
+- 🔗 StoryMap: link
+
+
+## Resume
+- [Download PDF](link)
+
+
+## Contact
+- Email: ksy32ksy@gmail.com 
+- GitHub: https://github.com/yourid  
+- LinkedIn: https://www.linkedin.com/in/seungyeon-kim-3419a8122?utm_source=share_via&utm_content=profile&utm_medium=member_ios
