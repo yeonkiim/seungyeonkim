@@ -30,5 +30,5 @@ This project examines long-term homelessness trends in two major U.S. regions to
 - Shelter capacity and support services remain inadequate relative to growing demand.
 - Long-term policy responses must focus on affordability, housing supply, and income stability to achieve lasting impact.
 
-## Files & Links
+## Link
 - 🌍 [StoryMap – People on the Streets](https://nu.hub.arcgis.com/apps/3b6e38f159ca405c9c7df8e759d94560/explore)
