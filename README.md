@@ -66,5 +66,5 @@ and international development projects across Asia, Latin America, and Africa.
 
 ## Contact
 - Email: ksy32ksy@gmail.com 
-- GitHub: https://github.com/yourid  
+- GitHub: https://github.com/yourid  ](https://yeonkiim.github.io/seungyeonkim/
 - LinkedIn: https://www.linkedin.com/in/seungyeon-kim-3419a8122?utm_source=share_via&utm_content=profile&utm_medium=member_ios
