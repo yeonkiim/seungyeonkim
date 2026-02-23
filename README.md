@@ -61,7 +61,7 @@ and international development projects across Asia, Latin America, and Africa.
 
 
 ## Resume
-- [Download PDF](link)
+- [Download PDF](/CV/)
 
 
 ## Contact
