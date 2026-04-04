@@ -2,6 +2,12 @@
 layout: default
 title: People on the Streets – Homelessness Trends (NY & CA)
 ---
+<div class="nav-links">
+  <a href="../../">Home</a>
+  <a href="../city-exploration/">City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+</div>
 
 # 🏠 People on the Streets – Homelessness Trends (New York & California)
 
@@ -31,4 +37,3 @@ This project examines long-term homelessness trends in two major U.S. regions to
 
 ## Link
 - 🌍 [StoryMap – People on the Streets](https://nu.hub.arcgis.com/apps/3b6e38f159ca405c9c7df8e759d94560/explore)
-- [Back to Home](../../)
