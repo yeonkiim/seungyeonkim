@@ -2,14 +2,27 @@
   <img src="assets/images/Picture1.png" width="100%">
 </p>
 
+<div class="hero-image">
+  <img src="assets/images/Picture1.png" alt="Pedestrian crossing viewed from above - Ryoji Iwata, Unsplash">
+</div>
+
 # Seungyeon Kim
-### Data-driven insights for more equitable and resilient cities
 
-[Home](./) | 
-[City Exploration](projects/city-exploration/) | 
-[Bikeshare Equity](projects/bikeshare-equity/) | 
-[Homelessness](projects/homelessness/)
+<div class="tagline">Data-driven insights for more equitable and resilient cities</div>
 
+<div class="nav-links">
+  <a href="./">Home</a>
+  <a href="projects/city-exploration/">City Exploration</a>
+  <a href="projects/bikeshare-equity/">Bikeshare Equity</a>
+  <a href="projects/homelessness/">Homelessness</a>
+</div>
+
+<div class="quick-tags">
+  <span>Inclusive Urban Planning</span>
+  <span>Urban Data Analysis</span>
+  <span>GIS</span>
+  <span>Mobility & Equity</span>
+</div>
 
 ## About
 
@@ -29,20 +42,25 @@ and international development projects across Asia, Latin America, and Africa.
 - [Download PDF](CV.pdf)
 
 
-## Featured Projects
+## Selected Projects
 
-### 🚲 City Exploration – Bike Safety & Infrastructure Risk Analysis
-Spatial analysis of bicycle crash hotspots near Bluebikes stations in Boston, combining Vision Zero data, GIS mapping, and infrastructure review.  
-[View Project →](projects/city-exploration/)
+<div class="project-card">
+  <h3>🚲 City Exploration – Bike Safety & Infrastructure Risk Analysis</h3>
+  <p>Spatial analysis of bicycle crash hotspots near Bluebikes stations in Boston using Vision Zero data, GIS mapping, and infrastructure review.</p>
+  <p><a href="projects/city-exploration/">View Project →</a></p>
+</div>
 
-### 🚴 Bikeshare Equity Analysis
-Regression and GIS analysis of whether Boston’s bikeshare system became more equitable after the SNAP Card to Ride program.  
-[View Project →](projects/bikeshare-equity/)
+<div class="project-card">
+  <h3>🚴 Bikeshare Equity Analysis – Boston</h3>
+  <p>Regression and GIS analysis of whether Boston’s bikeshare system became more equitable after the SNAP Card to Ride program.</p>
+  <p><a href="projects/bikeshare-equity/">View Project →</a></p>
+</div>
 
-### 🏠 People on the Streets – Homelessness Trends
-StoryMap-based spatial analysis of homelessness, rent burden, and policy shifts in New York and California.  
-[View Project →](projects/homelessness/)
-
+<div class="project-card">
+  <h3>🏠 People on the Streets – Homelessness Trends</h3>
+  <p>StoryMap-based spatial analysis of homelessness, rent burden, and policy shifts in New York and California.</p>
+  <p><a href="projects/homelessness/">View Project →</a></p>
+</div>
 
 ## Contact
 
