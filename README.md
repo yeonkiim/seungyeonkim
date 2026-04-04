@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/Picture1.png" width="100%">
+</p>
+
 [Home](./) | 
 [City Exploration](projects/city-exploration/) | 
 [Bikeshare Equity](projects/bikeshare-equity/) | 
