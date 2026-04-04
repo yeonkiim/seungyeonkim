@@ -18,10 +18,23 @@
   padding: 2rem 2rem 4rem 2rem;
 }
 
+a {
+  color: #1f6f78;
+  font-weight: 500;
+}
+
+a:hover {
+  color: #14535a;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   color: #2f3a45;
   line-height: 1.7;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
 }
 
 h1 {
@@ -78,7 +91,7 @@ li {
   font-weight: 500;
   text-decoration: none;
   color: #2f3a45;
-  background: #ffffff;
+  background: #eef6f7;
   transition: all 0.2s ease;
 }
 
@@ -103,9 +116,9 @@ li {
 }
 
 .tagline {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   font-weight: 500;
-  color: #4b5563;
+  color: #475569;
   margin-bottom: 1.2rem;
 }
 
