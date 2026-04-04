@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/images/Picture1.png" width="100%">
-</p>
-
 <div class="hero-image">
   <img src="assets/images/Picture1.png" alt="Pedestrian crossing viewed from above - Ryoji Iwata, Unsplash">
 </div>
