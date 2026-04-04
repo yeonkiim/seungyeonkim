@@ -12,7 +12,7 @@ title: "Climate Gentrification: Similar yet Different"
 
 
 
-# Climate Gentrification: Similar yet Different
+# 🌍 Climate Gentrification: Similar yet Different
 
 ## Overview
 
