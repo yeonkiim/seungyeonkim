@@ -3,11 +3,11 @@
 </div>
 
 <div class="nav-links">
-  <a href="../../">Home</a>
-  <a href="../city-exploration/">City Exploration</a>
-  <a href="../bikeshare-equity/">Bikeshare Equity</a>
-  <a href="../homelessness/">Homelessness</a>
-  <a href="../climate-gentrification/">Climate Gentrification</a>
+  <a href="./">Home</a>
+  <a href="projects/city-exploration/">City Exploration</a>
+  <a href="projects/bikeshare-equity/">Bikeshare Equity</a>
+  <a href="projects/homelessness/">Homelessness</a>
+  <a href="projects/climate-gentrification/">Climate Gentrification</a>
 </div>
 
 # Seungyeon Kim
@@ -22,7 +22,7 @@
     </p>
 
     <div class="hero-buttons">
-      <a class="button button-primary" href="#featured-projects">View Projects</a>
+      <a class="button button-primary" href="#selected-projects">View Projects</a>
       <a class="button button-secondary" href="CV.pdf">Resume</a>
     </div>
   </div>
@@ -61,7 +61,7 @@ and international development projects across Asia, Latin America, and Africa.
 
 ---
 
-## Selected Projects
+## Selected Projects {#selected-projects}
 
 <div class="project-card">
   <h3>🚲 City Exploration – Bike Safety & Infrastructure Risk Analysis</h3>
