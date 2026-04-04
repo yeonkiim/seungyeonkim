@@ -2,6 +2,12 @@
 layout: default
 title: Bikeshare Equity Analysis – Boston
 ---
+<div class="nav-links">
+  <a href="../../">Home</a>
+  <a href="../city-exploration/">City Exploration</a>
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+</div>
 
 # 🚴 Bikeshare Equity Analysis – Boston
 
