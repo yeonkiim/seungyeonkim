@@ -11,6 +11,17 @@ title: City Exploration – Bike Safety & Infrastructure Risk Analysis
 
 # 🚲 City Exploration – Bike Safety & Infrastructure Risk Analysis (Boston)
 
+<p align="center">
+<img src="Picture2.png" width="100%"></p>
+
+<p align="center">
+  <em>
+  Left: High-risk intersection with shared bike lanes and heavy vehicle interaction (Source: Google Maps)  
+  <br>
+  Right: Spatial distribution of bicycle crash hotspots and nearby infrastructure types (Author’s analysis)
+  </em>
+</p>
+
 ## Research Question
 Why do certain Bluebikes stations in Boston consistently experience higher bicycle accident rates despite overall improvements in bike infrastructure?
 
