@@ -23,8 +23,8 @@ body {
 h1 {
   font-size: 2.6rem;
   font-weight: 700;
-  margin-top: 1.6rem;
-  margin-bottom: 0.6rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
   color: #1f6f78;
 }
 
@@ -71,6 +71,7 @@ li {
   padding: 0.45rem 0.9rem;
   border: 1px solid #d7dde4;
   border-radius: 999px;
+  font-weight: 500;
   text-decoration: none;
   color: #2f3a45;
   background: #ffffff;
@@ -93,14 +94,15 @@ li {
   max-height: 420px;
   object-fit: cover;
   object-position: center 38%;
-  border-radius: 12px;
+  border-radius: 14px;
   display: block;
 }
 
 .tagline {
-  font-size: 1.05rem;
-  color: #5b6875;
-  margin-bottom: 1rem;
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: #4b5563;
+  margin-bottom: 1.2rem;
 }
 
 .quick-tags {
@@ -126,7 +128,17 @@ li {
   padding: 1.15rem 1.2rem;
   margin: 1.1rem 0 1.35rem 0;
   background: #ffffff;
-  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.04);
+  transition: all 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.06);
+  border-color: #d1d5db;
+}
+
+.project-card {
+  cursor: pointer;
 }
 
 .project-card h3 {
