@@ -29,3 +29,4 @@ This project explores demographic and socioeconomic patterns in Bluebikes usage 
 
 ## Files & Links
 - 📄 [Data Analysis Document (PDF)](bikeshare-equity.pdf)
+- [Back to Home](../../)
