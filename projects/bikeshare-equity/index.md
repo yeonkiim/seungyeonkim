@@ -12,7 +12,7 @@ title: Bikeshare Equity Analysis – Boston
 # 🚴 Bikeshare Equity Analysis – Boston
 
 <p align="center">
-  <img src="images/Picture3.png" width="100%">
+  <img src="Picture3.png" width="100%">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ This project explores demographic and socioeconomic patterns in Bluebikes usage 
 - **Methods:** Regression analysis (R), GIS mapping, spatial comparison of station distribution and ridership patterns
 
 <p align="center">
-  <img src="images/Picture4.png" width="100%">
+  <img src="Picture4.png" width="100%">
 </p>
 
 <p align="center">
