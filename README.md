@@ -2,14 +2,13 @@
   <img src="assets/images/Picture1.png" width="100%">
 </p>
 
+# Seungyeon Kim
+### Data-driven insights for more equitable and resilient cities
+
 [Home](./) | 
 [City Exploration](projects/city-exploration/) | 
 [Bikeshare Equity](projects/bikeshare-equity/) | 
 [Homelessness](projects/homelessness/)
-
-# Seungyeon Kim
-
-Inclusive Urban Planning | Urban Data Analysis
 
 
 ## About
