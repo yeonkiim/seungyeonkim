@@ -281,3 +281,23 @@ html {
     font-size: 1rem;
   }
 }
+.project-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.project-nav a {
+  padding: 6px 12px;
+  border-radius: 20px;
+  background: #f0f4f4;
+  text-decoration: none;
+  color: #333;
+  font-size: 14px;
+}
+
+.project-nav a:hover {
+  background: #0f766e;
+  color: white;
+}
