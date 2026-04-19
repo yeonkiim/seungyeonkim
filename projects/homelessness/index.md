@@ -10,59 +10,76 @@ title: People on the Streets – Homelessness Trends (NY & CA)
   <a href="../climate-gentrification/">Climate Gentrification</a>
 </div>
 
-# 🏠 People on the Streets – Homelessness Trends (New York & California)
+<p class="project-subtitle">🏠 People on the Streets – Homelessness Trends</p>
 
-<p align="center">
-  <img src="Picture 5.png" width="70%">
-</p>
+<h1 class="project-main-title">
+How Have Homelessness Trends Evolved in New York and California Over the Past Decade?
+</h1>
 
-<p align="center">
-  <em>
-  Homelessness trends in New York and California (2010–2023), illustrating the impact of temporary COVID-19 policies and the subsequent rebound
-  </em>
-</p>
+---
 
-<p align="center">
-  <img src="Picture6.png" width="49%">
-  <img src="Picture7.png" width="49%">
-</p>
+## Problem / Research Question
 
-<p align="center">
-  <em>
-  Spatial distribution of homelessness in New York (top) and California (bottom), highlighting concentration in high-poverty and high rent-burden areas (Author’s analysis)
-  </em>
-</p>
+While homelessness stems from many complex factors, a critical driver remains the severe shortage of affordable housing and insufficient income growth compared to rising rent prices.
 
-## Research Question
-How have homelessness patterns changed in New York and California between 2010 and 2020?
+What, then, have been the trends in New York and California over the past decade? Was there ever a moment when homelessness declined?
 
-## Background
-Homelessness is driven by complex structural factors, but a critical contributor remains the growing gap between housing affordability and income growth.
-This project examines long-term homelessness trends in two major U.S. regions to understand how policy interventions and market conditions intersect over time.
+---
 
 ## Data & Methods
-- **Homelessness data:** CoC-based counts (2010–2020)
-- **Socioeconomic indicators:** ACS data (poverty rates, rent burden, median rent)
-- **Methods:** GIS spatial analysis, regional comparison
-- **Communication:** ArcGIS StoryMaps for spatial storytelling and policy interpretation
+
+The analysis draws on multiple datasets to examine homelessness trends across New York and California over time.
+
+- **Data sources:**  
+  CoC-based homelessness counts (2010–2020) and American Community Survey (ACS) data, including poverty rates, rent burden, and median rent  
+
+- **Approach:**  
+  Regional comparison of homelessness trends and socioeconomic conditions  
+
+- **Methods:**  
+  GIS spatial analysis, ArcGIS StoryMap
+
+---
 
 ## Key Findings
-- Homelessness trends varied by region but remained closely linked to housing affordability pressures.
-- During the COVID-19 pandemic, temporary declines or stabilization were observed in some areas.
-- These shifts coincided with eviction moratoria and emergency rental assistance programs.
-- Following the expiration of these programs, homelessness rebounded sharply, revealing the fragility of short-term interventions.
+
+<div class="figure-card">
+  <img src="Picture 5.png" alt="Homelessness trends in New York and California (2010–2023)">
+<div class="figure-card">
+  <img src="Picture6.png" alt="Spatial distribution of homelessness in New York">
+<div class="figure-card">
+  <img src="Picture7.png" alt="Spatial distribution of homelessness in California">
+  <p class="figure-caption">
+    Spatial and temporal trends in homelessness across New York and California, illustrating the impact of temporary COVID-19 policies and the subsequent rebound (Author’s analysis via StoryMap)
+  </p>
+</div>
+
+
+Homelessness trends over the past decade reflect both long-term increases and short-term fluctuations, particularly during the COVID-19 pandemic.
+
+Temporary measures such as eviction moratoria and emergency rental assistance played a critical role in preventing a deeper crisis.
+
+However, the sharp resurgence in homelessness following the expiration of these programs highlights the limitations of short-term solutions.
+
+---
 
 ## Policy Implications
 
-- Temporary relief measures were effective in preventing a deeper crisis but insufficient to address structural housing shortages.  
-- Shelter capacity and support services remain inadequate relative to growing demand.  
-- Long-term policy responses must focus on affordability, housing supply, and income stability.  
+While the ironic, uncertain, yet somewhat positive changes in homelessness during the pandemic are striking, they offer an important opportunity to reflect on the necessity of adopting sustainable, long-term policies.
 
-While temporary measures such as eviction moratoria and emergency rental assistance played a critical role during the pandemic, the sharp resurgence in homelessness following their expiration highlights the limitations of short-term solutions.  
+Temporary measures such as eviction moratoria and emergency rental assistance played a critical role in preventing a deeper crisis. However, the sharp resurgence in homelessness following the expiration of these programs highlights the limitations of short-term solutions.
 
-This underscores the need for more sustainable approaches, such as "Housing First," which prioritize permanent housing as the foundation for long-term stability.  
+As the housing market continues to evolve rapidly, the capacity of temporary shelters and support services remains insufficient to meet growing needs.
 
-Ultimately, addressing homelessness requires a sustained commitment to structural solutions that ensure stable, affordable housing and long-term support systems.
+In response, greater emphasis should be placed on pursuing more sustainable models, such as **Housing First**, which prioritizes providing permanent housing as the foundation for long-term stability and recovery.
+
+Other policy approaches that address the deeper, structural causes of homelessness must also be considered to achieve lasting impact.
+
+Ultimately, addressing homelessness requires more than temporary relief—it demands a sustained commitment to creating stable, affordable housing and supporting individuals with dignity and care.
+
+By investing in long-term, inclusive solutions, we can build stronger, more resilient communities where everyone has the opportunity to thrive.
+
+---
 
 ## Link
 - 🌍 [StoryMap – People on the Streets](https://nu.hub.arcgis.com/apps/3b6e38f159ca405c9c7df8e759d94560/explore)
