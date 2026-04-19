@@ -77,3 +77,18 @@ Urban planners should carefully consider both public feedback and data on high-r
 ## Files & Links
 
 - [Project Report (PDF)](city-exploration.pdf)
+
+---
+
+## Explore More Projects
+
+<div class="project-nav">
+
+  <a href="../../">🏠 Home</a>
+  <a href="../../#projects">📂 All Projects</a>
+
+  <a href="../bikeshare-equity/">Bikeshare Equity</a>
+  <a href="../homelessness/">Homelessness</a>
+  <a href="../climate-gentrification/">Climate Gentrification</a>
+
+</div>
