@@ -45,15 +45,18 @@ The analysis draws on multiple datasets to examine homelessness trends across Ne
 
 <div class="figure-card">
   <img src="Picture 5.png" alt="Homelessness trends in New York and California (2010–2023)">
+</div>
+
 <div class="figure-card">
   <img src="Picture6.png" alt="Spatial distribution of homelessness in New York">
+</div>
+
 <div class="figure-card">
   <img src="Picture7.png" alt="Spatial distribution of homelessness in California">
   <p class="figure-caption">
     Spatial and temporal trends in homelessness across New York and California, illustrating the impact of temporary COVID-19 policies and the subsequent rebound (Author’s analysis via StoryMap)
   </p>
 </div>
-
 
 Homelessness trends over the past decade reflect both long-term increases and short-term fluctuations, particularly during the COVID-19 pandemic.
 
