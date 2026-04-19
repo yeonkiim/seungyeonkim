@@ -172,3 +172,24 @@ li {
     font-size: 1.05rem;
   }
 }
+.nav-links {
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+  margin: 1.5rem 0 2rem 0;
+  font-size: 0.95rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #1f3d3a;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+html {
+  scroll-behavior: smooth;
+}
