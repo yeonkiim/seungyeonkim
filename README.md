@@ -16,16 +16,20 @@ Urban Data • GIS • Policy Analysis
 
 ## About {#about}
 
-Urban Informatics graduate student with over 8 years of experience in international development, specializing in urban data analysis, GIS, and evidence-based policy research. Experienced in managing and analyzing large datasets to support inclusive urban planning, equity, and international development projects across Asia, Latin America, and Africa.
+Urban Informatics graduate student and international development professional with over 7 years of experience in data management, project coordination, and policy-oriented analysis across transport, environment, and public health sectors in Asia, Latin America, and Africa.
+
+I have worked with organizations including the International Monetary Fund (IMF), the Inter-American Development Bank (IDB), and GDC Consulting, supporting data-driven project design, reporting, and donor coordination. My work focuses on organizing and analyzing large-scale datasets to improve reporting systems and inform policy and operational decision-making.
+
+My current focus is on applying urban data analysis and spatial methods to better understand inequality in mobility, housing, and access to public services.
 
 - **Data Analytics:** R, SQL, Tableau, Power BI, ArcGIS Pro  
 - **Methods:** Spatial analysis, regression analysis, data visualization  
 - **Policy & Evaluation:** Project evaluation (M&E), research and analysis  
 - **Project Management:** Coordination, reporting, stakeholder engagement  
+- **Additional:** Logistics & event coordination, database management  
 - **Languages:** English (Fluent), Spanish (Fluent), Korean (Native)
 
-### Resume
-[Download Resume (PDF)](CV.pdf)
+👉 [Download Resume (PDF)](CV.pdf)
 
 ---
 
