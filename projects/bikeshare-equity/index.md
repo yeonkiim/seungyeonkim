@@ -34,28 +34,30 @@ This teaching case explores the demographic and socioeconomic characteristics of
 
 ## Data & Methods
 
-- R (regression)  
-- GIS  
+- R (regression)
+- GIS
 
 ---
 
 ## Key Findings
 
+### Median income, station count, and bike usage comparison (2015–2019)
+
 <div class="figure-card">
-  <img src="Picture3.png" alt="Map comparison of bikeshare usage and station distribution in Boston">
+  <img src="Picture3.png" alt="Comparison of median income, station count, and bike usage across Boston census tracts in 2015 and 2019">
   <p class="figure-caption">
     Comparison of median income, station count, and bike usage across Boston census tracts in 2015 and 2019 (Author’s analysis)
   </p>
 </div>
 
+### Bike usage and station distribution by income quantile (2019)
+
 <div class="figure-card">
-  <img src="Picture4.png" alt="Bike usage and station distribution by income quantile in 2019">
+  <img src="Picture4.png">
   <p class="figure-caption">
     Bike usage and station distribution by income quantile in 2019, showing increased access but persistent disparities in usage (Author’s analysis)
   </p>
 </div>
-
----
 
 The absolute number of bikeshare users in low-income census tracts increased significantly during this period.
 
