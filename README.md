@@ -16,7 +16,7 @@ Urban Data • GIS • Policy Analysis
 
 ## About {#about}
 
-Urban Informatics graduate student and international development professional with over 7 years of experience in data management, project coordination, and policy-oriented analysis across transport, environment, and public health sectors in Asia, Latin America, and Africa.
+Urban Informatics graduate student and international development professional with over 8 years of experience in data management, project coordination, and policy-oriented analysis across transport, environment, and public health sectors in Asia, Latin America, and Africa.
 
 I have worked with organizations including the International Monetary Fund (IMF), the Inter-American Development Bank (IDB), and GDC Consulting, supporting data-driven project design, reporting, and donor coordination. My work focuses on organizing and analyzing large-scale datasets to improve reporting systems and inform policy and operational decision-making.
 
